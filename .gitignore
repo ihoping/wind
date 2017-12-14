@@ -1,0 +1,6 @@
+.htaccess
+composer.json
+composer.lock
+index.php
+*.xml
+.idea/*
